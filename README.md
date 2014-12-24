@@ -1,9 +1,3 @@
-GossipView
-==========
-
-a custom view like the Gossip,with responsive items
-
-first ,sorry for my poor English.
 
 GossipView：圆圈布局的自定义view
 ---------------
